@@ -1,0 +1,15 @@
+{
+  "name": "countries-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhijith sunder",
+  "license": "ISC",
+  "dependencies": {
+    "countrycitystatejson": "^20.8.14",
+    "express": "^4.17.3"
+  }
+}
